@@ -57,9 +57,3 @@ You will be prompted to enter:
 
 - Python 3.x
 - No external libraries required (uses `socket` and `threading`)
-
-## Notes
-
-- The server and clients must run on the same machine or within the same network.
-- No GUI – purely terminal-based for simplicity and focus on networking logic.
-- Designed for educational use to understand basic socket programming in Python.
